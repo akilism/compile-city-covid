@@ -1,0 +1,15 @@
+{
+  "name": "compile-city-covid",
+  "version": "1.0.0",
+  "description": "compile NYC covid testing data by zcta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.1.3",
+    "yargs": "^15.3.1"
+  }
+}
